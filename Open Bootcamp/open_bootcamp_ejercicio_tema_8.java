@@ -43,8 +43,3 @@ class Persona {
         return telefono;
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Pri
